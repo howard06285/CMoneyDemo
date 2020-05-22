@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">CMoneyDemo</string>
+    <string name="first_fragment_title_text">JSON Placeholder</string>
+    <string name="first_fragment_next_page_button_text">Request API</string>
+    <string name="button_transition_name">buttonTransitionName</string>
+
+
+    <string name="row_item_id">Id</string>
+    <string name="row_item_title">Title</string>
+    <string name="row_item_image_description">Demo image</string>
+</resources>
